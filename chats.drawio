@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+  <diagram name="Page-1" id="N64ltTdFHUw_Zcbg7I4f">
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-2" target="LOkWKoAn5rkXcdRa_7Wn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-2" value="виджет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-3" target="LOkWKoAn5rkXcdRa_7Wn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-3" value="портал" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-6" target="LOkWKoAn5rkXcdRa_7Wn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-6" target="LOkWKoAn5rkXcdRa_7Wn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-6" target="LOkWKoAn5rkXcdRa_7Wn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-6" value="Проект" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-7" value="project_chat_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-8" value="{user_id:support_chat_id}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-15" value="project_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="788" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-16" value="{user_id:support_chat_id}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="832" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-19" target="LOkWKoAn5rkXcdRa_7Wn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-19" value="валидация чата" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-20" target="LOkWKoAn5rkXcdRa_7Wn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-20" value="создание чата" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="801" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-21" value="подключение к чату" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-25" value="project_chat_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="801" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-27" value="jwt_token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="791" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-32" target="LOkWKoAn5rkXcdRa_7Wn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-32" target="LOkWKoAn5rkXcdRa_7Wn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-32" target="LOkWKoAn5rkXcdRa_7Wn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-32" value="создание чата в оптике" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-35" target="LOkWKoAn5rkXcdRa_7Wn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-35" target="LOkWKoAn5rkXcdRa_7Wn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-35" value="с портала пришел chat_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-53" value="обновление у проекта поля: chat_id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-54" value="обновление у проекта поля support_chats" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-31" target="LOkWKoAn5rkXcdRa_7Wn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOkWKoAn5rkXcdRa_7Wn-31" target="LOkWKoAn5rkXcdRa_7Wn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-31" value="валидация в оптике" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-56" value="да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-57" value="нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-62" value="невалиден" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-63" value="валиден" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-70" value="is_project: true" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="786" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-71" value="is_support: true" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="760" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-74" value="project_id&lt;br&gt;chat_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-75" value="project_id&lt;br&gt;user_id&lt;br&gt;chat_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="820" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-76" value="project_id&lt;br&gt;is_project&lt;br&gt;is_support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="570" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-78" value="chat_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LOkWKoAn5rkXcdRa_7Wn-79" value="Авторизация через JWT&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
